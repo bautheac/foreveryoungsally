@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/foreveryoungsally/static/css/main.44c42517.chunk.css",
-    "main.js": "/foreveryoungsally/static/js/main.a238d492.chunk.js",
-    "main.js.map": "/foreveryoungsally/static/js/main.a238d492.chunk.js.map",
+    "main.css": "/foreveryoungsally/static/css/main.9a4ab3e0.chunk.css",
+    "main.js": "/foreveryoungsally/static/js/main.57e07f20.chunk.js",
+    "main.js.map": "/foreveryoungsally/static/js/main.57e07f20.chunk.js.map",
     "runtime-main.js": "/foreveryoungsally/static/js/runtime-main.23b501aa.js",
     "runtime-main.js.map": "/foreveryoungsally/static/js/runtime-main.23b501aa.js.map",
-    "static/js/2.859935bc.chunk.js": "/foreveryoungsally/static/js/2.859935bc.chunk.js",
-    "static/js/2.859935bc.chunk.js.map": "/foreveryoungsally/static/js/2.859935bc.chunk.js.map",
+    "static/js/2.b49bbc0c.chunk.js": "/foreveryoungsally/static/js/2.b49bbc0c.chunk.js",
+    "static/js/2.b49bbc0c.chunk.js.map": "/foreveryoungsally/static/js/2.b49bbc0c.chunk.js.map",
     "index.html": "/foreveryoungsally/index.html",
-    "precache-manifest.eab49054c0c67e2f27db82a4704501f8.js": "/foreveryoungsally/precache-manifest.eab49054c0c67e2f27db82a4704501f8.js",
+    "precache-manifest.75bf7aa9559c26af29b250bd87c39cb7.js": "/foreveryoungsally/precache-manifest.75bf7aa9559c26af29b250bd87c39cb7.js",
     "service-worker.js": "/foreveryoungsally/service-worker.js",
-    "static/css/main.44c42517.chunk.css.map": "/foreveryoungsally/static/css/main.44c42517.chunk.css.map",
-    "static/js/2.859935bc.chunk.js.LICENSE.txt": "/foreveryoungsally/static/js/2.859935bc.chunk.js.LICENSE.txt",
+    "static/css/main.9a4ab3e0.chunk.css.map": "/foreveryoungsally/static/css/main.9a4ab3e0.chunk.css.map",
+    "static/js/2.b49bbc0c.chunk.js.LICENSE.txt": "/foreveryoungsally/static/js/2.b49bbc0c.chunk.js.LICENSE.txt",
     "static/media/IMG-20200418-WA0009.jpg": "/foreveryoungsally/static/media/IMG-20200418-WA0009.f40b3306.jpg",
     "static/media/IMG-20200418-WA0012.jpg": "/foreveryoungsally/static/media/IMG-20200418-WA0012.868e1040.jpg",
     "static/media/IMG-20200418-WA0015.jpg": "/foreveryoungsally/static/media/IMG-20200418-WA0015.d80e360b.jpg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.23b501aa.js",
-    "static/js/2.859935bc.chunk.js",
-    "static/css/main.44c42517.chunk.css",
-    "static/js/main.a238d492.chunk.js"
+    "static/js/2.b49bbc0c.chunk.js",
+    "static/css/main.9a4ab3e0.chunk.css",
+    "static/js/main.57e07f20.chunk.js"
   ]
 }
