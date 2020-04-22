@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "147ba5249ecb897f62d648a107850268",
+    "revision": "03d21b51c844c4814cd75ffe9de52165",
     "url": "/foreveryoungsally/index.html"
   },
   {
-    "revision": "587c6acf4b6eeba26760",
+    "revision": "c95230c6aaf2a55643a2",
     "url": "/foreveryoungsally/static/css/main.9b171174.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foreveryoungsally/static/js/2.b49bbc0c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "587c6acf4b6eeba26760",
-    "url": "/foreveryoungsally/static/js/main.e8240218.chunk.js"
+    "revision": "c95230c6aaf2a55643a2",
+    "url": "/foreveryoungsally/static/js/main.aa9bd1f1.chunk.js"
   },
   {
     "revision": "b2f15b2c71aec6d562a9",
